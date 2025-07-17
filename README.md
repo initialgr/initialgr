@@ -27,15 +27,6 @@ I'm an aspiring developer with a passion for building cool things. I'm currently
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img
-      alt="Initialgr's GitHub Streak"
-      src="https://streak-stats.demolab.com?user=initialgr&theme=react&hide_border=true&bg_color=1F222E&currstreak_color=F85D7F&ring_color=F8D866"
-    />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Technologies & Tools
